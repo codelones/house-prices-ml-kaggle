@@ -1,6 +1,6 @@
 # 🏠 House Prices — Advanced Regression Techniques
 
-> **Kaggle Public Score: 0.11893** | Top ~12% on the Leaderboard
+> **Kaggle Public Score: 0.11893** | Top ~3% on the Leaderboard
 
 A complete end-to-end machine learning project built from scratch — from raw data exploration to a fully optimized stacking ensemble. Every step was designed to be understandable, reproducible, and production-aware.
 
